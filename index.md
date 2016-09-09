@@ -1,70 +1,30 @@
 ---
 layout: index
-title: Brandon Amos
+title: Yann-Aël Le Borgne
 ---
 
-**I am looking for a machine learning research internship
-for sometime in 2017.**
+<div align="justify">
 
-I am a third-year Computer Science Ph.D. student
-at Carnegie Mellon University.
-I work with [Zico Kolter](http://zicokolter.com)
-on machine learning and optimization and am supported
-by an NSF graduate research fellowship.
-My research interests include applying theory and statistics
-to empirical problems in machine learning and computer vision,
-particularly in deep learning.
+Main research interests: machine learning (unsupervised and supervised learning), big data (Hadoop/Spark), open data, new technologies (Internet of things, virtual reality, interactive arts). 
 
-{% include cv.md %}
+<p>
+Currently part of the <a href="http://www.securit-brussels.be/project/brufence/" target='_blank'>Brufence project</a> (Scalable machine learning for automating defense system) funded by <a href="http://www.innoviris.be/en?set_language=en" target='_blank'>Innoviris</a>, 03/2015-02/2018, in collaboration with <a href="http://worldline.com/en-us/home.html" target='_blank'>Atos Wordline</a>. The goal is to develop efficient fraud detection algorithms, from highly unbalanced, streaming data. 
+</p>
 
-## <i class="fa fa-chevron-right"></i> Recent Blog Posts
+<!--<b>I occasionnaly accept consultancy services, feel free to contact me.</b>
 
-<table class="table table-hover">
-  {% for post in site.posts limit: 5 %}
-    {% unless post.draft %}
-    <tr>
-      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td class="col-md-3" style="text-align: right;">{{ post.date | date: "%B %e, %Y" }}</td>
-    </tr>
-    {% endunless %}
-  {% endfor %}
-</table>
-<h4><a href="/blog">View all</a></h4>
+<b>For students: Check the <a href="https://mlg.ulb.ac.be/masterthesis" target="_blank">Machine Learning Group Master thesis page</a> for currently available topics.</b>-->
 
-## <i class="fa fa-chevron-right"></i> Fun Side Projects
-+ [CS conference tracker](https://github.com/bamos/conference-tracker).
-+ [SnowGlobe](https://github.com/bamos/snowglobe):
-  Haskell-driven, small-scale web analytics with minimal configuration.
-+ [My reading list](http://bamos.github.io/reading-list/):
-  YAML data and hosted on GitHub pages.
-+ [dotfiles](https://github.com/bamos/dotfiles):
-  &hearts;
-  [Arch Linux](https://www.archlinux.org/),
-  OSX,
-  [mutt](http://www.mutt.org/),
-  [xmonad](http://xmonad.org/),
-  [i3](https://i3wm.org/),
-  [vim](http://www.vim.org/),
-  [emacs](https://www.gnu.org/software/emacs/),
-  [zsh](http://www.zsh.org/),
-  [mpv](http://mpv.io/),
-  [cmus](https://cmus.github.io/).
-+ [girl](https://github.com/bamos/girl):
-  Scala program to find broken links in GitHub projects.
-+ [zsh-history-analysis](https://github.com/bamos/zsh-history-analysis):
-  Analyze shell usage patterns with Python and R.
-+ [python-scripts](https://github.com/bamos/python-scripts):
-  Short and fun Python scripts.
-+ [This website](https://github.com/bamos/bamos.github.io):
-  Built with Jekyll and hosted on GitHub pages.
-+ [cv](https://github.com/bamos/cv):
-  Python-driven resume-curriculum vitae with Jinja templates.
-+ [yaml-mailer](https://github.com/bamos/yaml-mailer):
-  Email many people different messages.
-+ [latex-templates](https://github.com/bamos/latex-templates)
-  and [beamer-snippets](https://github.com/bamos/beamer-snippets):
-  Personal collection and previewing of LaTeX and Beamer snippets.
-  Admittedly, I now use Keynote for presentations.
+<p></p>
+
+## <i class="fa fa-chevron-right"></i> News
++ 2016/09/19: <a href="http://ecmlpkdd2016.org/" target='_blank'>ECML/PKDD 2016</a>, Workshop <a href="https://sites.google.com/site/ecmlpkdd2016sogood/" target='_blank'>SoGood</a> on Open Data for good. Presentation of <a href="http://yleborgne.net/opented"  target='_blank'>OpenTed browser</a>, a tool that makes the browsing of European procurements easier. 
++ 2016/10/10-13: Visit at Atos/Worldine Lyon, University of Grenoble, University of Saint-Etienne, France.
+<!--+ 2016/10/03-10: Visit at CIRAD, <a href="http://amap.cirad.fr/en/">UMR AMAP</a>-->
++ 2016/10/26-27: <a href="https://spark-summit.org/eu-2016/" target='_blank'>Spark Summit Europe 2016</a>. 
++ 2016/11/15: <a href="https://biotexcel.com/event/ngs-2016-benelux/ target='_blank'">Next Generation Sequencing (NGS) 2016 Benelux</a>, presentation of <a href="">DiGeST (Distributed Gene/Variant Scoring tool)</a>, a proof of concept tool for performing large scale genome wide association studies using Big Data (Hadoop/Spark) frameworks. 
+
+</div>
 
 ---
 

@@ -1,7 +1,7 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Yann-Aël Le Borgne
+url: http://yannael.github.io
 destination: ./_site
-twitter: brandondamos
+twitter: ya_lb
 lsi: false
 port: 4000
 markdown: kramdown
