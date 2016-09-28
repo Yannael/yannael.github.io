@@ -11,15 +11,11 @@ Main research interests: machine learning (unsupervised and supervised learning)
 Currently part of the <a href="http://www.securit-brussels.be/project/brufence/" target='_blank'>Brufence project</a> (Scalable machine learning for automating defense system) funded by <a href="http://www.innoviris.be/en?set_language=en" target='_blank'>Innoviris</a>, 03/2015-02/2018, in collaboration with <a href="http://worldline.com/en-us/home.html" target='_blank'>Atos Wordline</a>. The goal is to develop efficient fraud detection algorithms, from highly unbalanced, streaming data. 
 </p>
 
-<!--<b>I occasionnaly accept consultancy services, feel free to contact me.</b>
-
-<b>For students: Check the <a href="https://mlg.ulb.ac.be/masterthesis" target="_blank">Machine Learning Group Master thesis page</a> for currently available topics.</b>-->
-
 <p></p>
 
 ## <i class="fa fa-chevron-right"></i> Upcoming
 + 2016/10/03-7: Visit at CIRAD, <a href="http://amap.cirad.fr/en/" target='_blank'>UMR AMAP</a>, Montpellier, France
-+ 2016/10/10-13: Visit at Atos/Worldline Lyon, University of Grenoble, University of Saint-Etienne, France.
++ 2016/10/10-13: <a href="http://www.securit-brussels.be/project/brufence/" target='_blank'>Brufence project</a>. Visit at Atos/Worldline Lyon, University of Grenoble, University of Saint-Etienne, France.
 + 2016/10/26-27: <a href="https://spark-summit.org/eu-2016/" target='_blank'>Spark Summit Europe 2016</a>. 
 + 2016/11/15: <a href="https://biotexcel.com/event/ngs-2016-benelux/" target='_blank'>Next Generation Sequencing (NGS) 2016 Benelux</a>, presentation of <a href="http://bridgeiris.ulb.ac.be/digest/">DiGeST (Distributed Gene/Variant Scoring tool)</a>, a proof of concept tool for performing large scale genome wide association studies using Big Data (Hadoop/Spark) frameworks. 
 
