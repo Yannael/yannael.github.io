@@ -5,9 +5,9 @@ title: Teaching
 
 <div align="justify">
 
-## <i class="fa fa-chevron-right"></i> Upcoming
+## <i class="fa fa-chevron-right"></i> Current
 
-+ 2016/2017: Teaching assistant for INFO-F-422 - <a href="http://ai.vub.ac.be/courses/2011-2012/statistical-foundations-of-machine-learning" target="_blank">Statistical Foundations of Machine Learning</a>. Professor: <a href="http://www.ulb.ac.be/di/map/gbonte/Welcome.html" target="_blank">Gianluca Bontempi</a>.
++ 2016/2017: Teaching assistant for INFO-F-422 - <a href="http://uv.ulb.ac.be/course/view.php?id=59893" target="_blank">Statistical Foundations of Machine Learning</a>. With <a href="http://fcarcill.wixsite.com/phdcandidate" target="_blank">Fabrizio Carcillo</a>. Professor: <a href="http://www.ulb.ac.be/di/map/gbonte/Welcome.html" target="_blank">Gianluca Bontempi</a>.
 
 ## <i class="fa fa-chevron-right"></i> Past
 
