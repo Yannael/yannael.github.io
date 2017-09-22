@@ -20,6 +20,7 @@ title: Research interests
 <li>Interactive arts</li>
 </ul>
 
+<!--
 <p></p>
 <br>
 
@@ -71,6 +72,7 @@ blabla
     </tr>
     </table>
 </div>
+-->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
