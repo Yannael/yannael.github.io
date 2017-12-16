@@ -11,6 +11,7 @@ title: Research interests
 <li>Deep learning</li>
 <li>Blockchain</li>
 <li>Fraud detection</li>
+<li>Time series forecasting</li>
 <li>Bioinformatics</li>
 <li>Open data</li>
 <li>Data visualization</li>
