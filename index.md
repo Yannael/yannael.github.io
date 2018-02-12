@@ -8,8 +8,12 @@ title: Yann-Aël Le Borgne
 Main research interests: machine learning (unsupervised and supervised learning), big data (Hadoop/Spark), open data, new technologies (Internet of things, blockchains, virtual reality, interactive arts). 
 
 <p>
-Currently part of the <a href="http://www.securit-brussels.be/project/brufence/" target='_blank'>Brufence project</a> (Scalable machine learning for automating defense system) funded by <a href="http://www.innoviris.be/en?set_language=en" target='_blank'>Innoviris</a>, 03/2015-02/2018, in collaboration with <a href="http://worldline.com/en-us/home.html" target='_blank'>Atos Wordline</a>. The goal is to develop efficient fraud detection algorithms, from highly unbalanced, streaming data. 
+Currently assistant for the ULB/VUB course 'INFO-H-515 - Big Data : Distributed Data Management and Scalable Analytics'.
 </p>
+
+<!--<p>
+Currently part of the <a href="http://www.securit-brussels.be/project/brufence/" target='_blank'>Brufence project</a> (Scalable machine learning for automating defense system) funded by <a href="http://www.innoviris.be/en?set_language=en" target='_blank'>Innoviris</a>, 03/2015-02/2018, in collaboration with <a href="http://worldline.com/en-us/home.html" target='_blank'>Atos Wordline</a>. The goal is to develop efficient fraud detection algorithms, from highly unbalanced, streaming data. 
+</p>-->
 
 <p></p>
 
