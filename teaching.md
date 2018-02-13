@@ -7,7 +7,7 @@ title: Teaching
 
 ## <i class="fa fa-chevron-right"></i> Upcoming
 
-+ 2017/2018: Teaching assistant for INFO-H-415 - <a href="http://uv.ulb.ac.be/course/view.php?id=74317" target="_blank">Big Data : Distributed Data Management and Scalable Analytics</a>. With <a href="https://jdestefani.github.io/" target="_blank">Jacopo De Stefani</a> and Michaël Waumans. Professor: Stijn Vansummeren (coordinator), <a href="http://www.ulb.ac.be/di/map/gbonte/Welcome.html" target="_blank">Gianluca Bontempi</a> and Ann Nowé.
++ 2017/2018: Teaching assistant for INFO-H-515 - <a href="http://uv.ulb.ac.be/course/view.php?id=74317" target="_blank">Big Data : Distributed Data Management and Scalable Analytics</a>. With <a href="https://jdestefani.github.io/" target="_blank">Jacopo De Stefani</a> and Michaël Waumans. Professor: Stijn Vansummeren (coordinator), <a href="http://www.ulb.ac.be/di/map/gbonte/Welcome.html" target="_blank">Gianluca Bontempi</a> and Ann Nowé.
 
 ## <i class="fa fa-chevron-right"></i> Past
 
