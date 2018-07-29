@@ -8,7 +8,7 @@ title: Yann-Aël Le Borgne
 Main research interests: machine learning (unsupervised and supervised learning), big data (Hadoop/Spark), open data, new technologies (Internet of things, blockchains, virtual reality, interactive arts). 
 
 <p>
-Assistant for the ULB/VUB course 'INFO-H-515 - Big Data : Distributed Data Management and Scalable Analytics'. [Scalable analytics part](https://github.com/Yannael/BigDataAnalytics_INFOH515).
+Assistant for the ULB/VUB course 'INFO-H-515 - Big Data : Distributed Data Management and Scalable Analytics' ([Scalable analytics part](https://github.com/Yannael/BigDataAnalytics_INFOH515)).
 </p>
 
 <!--<p>
