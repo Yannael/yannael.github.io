@@ -10,8 +10,8 @@ title: Research interests
 <li>Big Data, Hadoop, Spark</li>
 <li>Deep learning</li>
 <li>Fraud detection</li>
-<li>Blockchain</li>
 <li>Time series forecasting</li>
+<li>Blockchain</li>
 <li>Bioinformatics</li>
 <li>Open data</li>
 <li>Data visualization</li>
