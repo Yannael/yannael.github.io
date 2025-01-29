@@ -2,9 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+# root: README
+root: 1_IA_générative_introduction/IA_générative_introduction
 chapters:
-- file: 1_IA_générative_introduction/IA_générative_introduction
+#- file: 1_IA_générative_introduction/IA_générative_introduction
 - file: 2_Exemples_usage/Exemples_usage
 - file: 3_Comment_ca_marche/Comment_ca_marche
 - file: 4_Améliorer_ses_prompts/Améliorer_ses_prompts
