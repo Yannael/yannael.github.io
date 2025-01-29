@@ -50,7 +50,7 @@ Cet exemple illustre un point essentiel des IA génératives : si elles peuvent 
 Enfin, générons une musique à partir des paroles de chanson obtenues précédemment.
 
 <video controls="true" title="C'est le libre examen">
-        <source src="attachments/libre_examen_suno.mp4">libre_examen_suno.mp4
+        <source src="https://github.com/ULB-AcademIA/guide_usages_IA/raw/refs/heads/main/1_IA_g%C3%A9n%C3%A9rative_introduction/attachments/libre_examen_suno.mp4">libre_examen_suno.mp4
 </video>
 
 C'est ici l'outil [Suno](https://suno.com/create) que nous avons utilisé, en demandant un morceau dans un style "hip-hop avec des riffs de piano". L'application Suno a aussi au passage généré une illustration pour la chanson, représentant un intérieur d'ancienne bibliothèque.

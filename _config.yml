@@ -1,10 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: ChatGPT
-#, Copilot et autres assistants IA. Quels usages à l’ULB?
-author: <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle">ULB Academ·IA</a>
-logo: Academ-IA-logo.png
+title: "ChatGPT, Copilot et autres assistants IA. Quels usages à l’ULB?"
+author: <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle">Université Libre de Bruxelles - Academ·IA</a>
+copyright: ""
+logo: ulb_academia_title.jpg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -20,11 +20,25 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+# Advanced and power-user settings
+
+
 html:
-  favicon                   : "images/favicon.ico"  # A path to a favicon image
+  favicon                   : "IA.png"  # A path to a favicon image
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
+  home_page_in_navbar : true
+  #navbar_number_sections: false
+  theme: "sphinx_book_theme"
   extra_footer: |
     <p>
-    Licence: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>.
+    Licence: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>
     </p>
+
+#sphinx:
+#   config:    
+#         html_theme_options:
+#          logo:
+#            text: "ChatGPT, Copilot et autres assistants IA. Quels usages à l’ULB?"    
+
