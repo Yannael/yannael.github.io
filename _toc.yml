@@ -6,13 +6,20 @@ root: README
 options:  # The options key will be applied to all chapters, but not sub-sections
   numbered: True
 
-chapters:
-- file: 1_IA_générative_introduction/IA_générative_introduction
-- file: 2_Exemples_usage/Exemples_usage
-- file: 3_Comment_ca_marche/Comment_ca_marche
-- file: 4_Améliorer_ses_prompts/Améliorer_ses_prompts
-- file: 5_Points_de_vigilance/Points_de_vigilance
-- file: 6_Principes_utilisation_ULB/Principes_utilisation_ULB
-- file: 7_Boîte_à_outils_de_référence/Boîte_à_outils_de_référence
-- file: 8_Jeu_test_de_Turing/Jeu_test_de_Turing
-- file: 9_Aller_plus_loin/Aller_plus_loin 
+parts: 
+  - caption: Contenu
+    numbered: True
+    chapters:
+    - file: 1_IA_générative_introduction/IA_générative_introduction
+    - file: 2_Exemples_usage/Exemples_usage
+    - file: 3_Comment_ca_marche/Comment_ca_marche
+    - file: 4_Améliorer_ses_prompts/Améliorer_ses_prompts
+    - file: 5_Points_de_vigilance/Points_de_vigilance
+    - file: 6_Principes_utilisation_ULB/Principes_utilisation_ULB
+    - file: 7_Boîte_à_outils_de_référence/Boîte_à_outils_de_référence
+    - file: 8_Jeu_test_de_Turing/Jeu_test_de_Turing
+    - file: 9_Aller_plus_loin/Aller_plus_loin 
+  - caption: Annexes
+    chapters:
+    - file: Annexes/Compétences
+    
