@@ -1,6 +1,8 @@
 
 # Compétences abordées
 
+Ce guide a été conçu de façon à être aligné avec le référentiel de compétences en IA de l'UNESCO (2024) et le référentiel européen DigComp (2022), pour lesquels nous couvrons une trentaine de compétences.
+
 ## DigComp 2.2 Learning objectives
 
 INFORMATION AND DATA LITERACY

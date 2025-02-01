@@ -1,0 +1,25 @@
+.bd-toc {
+    display: none !important;
+}
+
+
+/* Extend the content area to occupy full width 
+.bd-main .bd-content {
+    max-width: 100% !important;  /* Force full width 
+    flex: 1 !important;
+    width: 100% !important;
+}
+
+/* Adjust layout to take the full screen 
+.bd-page-width {
+    max-width: 95% !important;  // Expand content width 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Ensure proper alignment of text content 
+.bd-content .bd-article-container {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+*/

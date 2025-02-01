@@ -1,3 +1,4 @@
+(part6)=
 # Principes d'utilisation à l'ULB
 
 ![charte_usages_ULB](attachments/charte_usages_ULB.png)

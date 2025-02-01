@@ -1,4 +1,6 @@
+(part5)=
 # Points de vigilance
+
 ## Les outils d'IA générative ne sont pas des moteurs de recherche
 
 Ils ne sont pas conçus pour fournir des résultats fiables et cohérents. Comme présenté dans la section "Fonctionnement de l'IA générative", ce sont des outils d'auto-complétion conçus pour produire des contenus statistiquement probables. 

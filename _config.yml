@@ -1,10 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "ChatGPT, Copilot et autres assistants IA : Quels usages à l’ULB?"
-author: <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle">Université Libre de Bruxelles - Academ·IA</a>
+title: "ChatGPT, Copilot et autres assistants IA : Guide des usages à l’ULB"
+author: <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle">Université Libre de Bruxelles - Academ·IA</a> 
 copyright: ""
-logo: ulb_academia_title.jpg
+logo: ulb_academia_title.png 
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -36,9 +36,10 @@ html:
     Licence: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>
     </p>
 
+
 #sphinx:
 #   config:    
 #         html_theme_options:
 #          logo:
-#            text: "ChatGPT, Copilot et autres assistants IA. Quels usages à l’ULB?"    
+#            text: "ChatGPT, Copilot et autres assistants IA : Guide des usages à l’ULB"    
 

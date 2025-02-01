@@ -1,3 +1,4 @@
+(part3)=
 # Fonctionnement de l'IA générative
 
 ## Exercice d'échauffement 

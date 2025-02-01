@@ -1,3 +1,4 @@
+(part1)=
 # IA générative: Introduction
 
 ## L'intelligence artificielle générative

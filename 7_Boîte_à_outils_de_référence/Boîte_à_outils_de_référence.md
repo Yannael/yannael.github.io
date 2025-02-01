@@ -1,3 +1,4 @@
+(part7)=
 # Boîte à outils de référence
 
 ## Microsoft copilot

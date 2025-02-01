@@ -1,4 +1,6 @@
+(part9)=
 # Aller plus loin
+
 ## Comment comparer les outils d'IA générative?
 
 Le site [Compar:IA](https://www.comparia.beta.gouv.fr/), proposé par le service du numérique du ministère de la Culture français, est un outil intéressant pour comparer différents modèles d'IA générative open-source. 

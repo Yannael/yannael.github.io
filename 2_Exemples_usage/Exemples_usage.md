@@ -1,3 +1,4 @@
+(part2)=
 # Exemples d'usages
 
 ## Exemples d'usages académiques

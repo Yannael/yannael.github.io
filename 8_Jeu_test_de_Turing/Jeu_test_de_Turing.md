@@ -1,3 +1,4 @@
+(part8)=
 # Jeu - Test de Turing
 
 ## A toi de jouer !

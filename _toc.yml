@@ -3,12 +3,12 @@
 
 format: jb-book
 root: README
-options:  # The options key will be applied to all chapters, but not sub-sections
-  numbered: True
 
-parts: 
+parts:
   - caption: Contenu
+    maxdepth: 1
     numbered: True
+    number_sections: false
     chapters:
     - file: 1_IA_générative_introduction/IA_générative_introduction
     - file: 2_Exemples_usage/Exemples_usage
@@ -22,4 +22,3 @@ parts:
   - caption: Annexes
     chapters:
     - file: Annexes/Compétences
-    

@@ -1,4 +1,6 @@
+(part4)=
 # Améliorer ses prompts
+
 ## Qu'est-ce qu'un prompt?
 
 Le prompt est l'ensemble des instructions que l'on donne à l'outil d'IA générative pour accomplir une tâche.
