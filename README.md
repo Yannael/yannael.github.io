@@ -37,9 +37,11 @@ Le guide est en cours de construction. Finalisation prévue pour le 15/02.
 
 <p>
 
-<img src="https://i.ibb.co/C5LVgTq7/beaver.png" alt="beaver"  width="200px">
+![beaver](beaver.png)
 
 <p>
+
+Image credit: Dall-E 3.
 
 
 
