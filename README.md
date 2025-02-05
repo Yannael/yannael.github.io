@@ -1,7 +1,10 @@
-# Pourquoi ce guide?
+# ChatGPT, Copilot et autres assistants IA : Guide des usages à l’ULB
 
-Découvre avec ce guide les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, Copilot et autres assistants IA à l'Université libre de Bruxelles. Le guide a été conçu dans le cadre du plan de formation <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle" target="_blank">ULB Academ·IA</a>.
+## Pourquoi ce guide?
 
+Découvre avec ce guide les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, Copilot et autres assistants IA à l'Université libre de Bruxelles. 
+
+Le guide a été conçu dans le cadre du plan de formation <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle" target="_blank">ULB Academ·IA</a>.
 
 **Contenu:**
 
@@ -15,10 +18,9 @@ Découvre avec ce guide les usages recommandés des outils d'intelligence artifi
 8. [Jeu - Test de Turing](part8)
 9. [Aller plus loin](part9)
 
-<p>
+</p>
 
-
-Tu penses déjà tout savoir sur le sujet? Teste tes connaissances avec ce quiz!
+**👩‍🎓 Tu penses déjà tout savoir sur le sujet? Teste tes connaissances avec ce quiz!**
 
 <center>
     <div style="width: 100%;">
@@ -26,20 +28,19 @@ Tu penses déjà tout savoir sur le sujet? Teste tes connaissances avec ce quiz!
     </div>
 </center>
 
-<p>
+</p>
 
-**Contact**
+**✏️ L'équipe CeCo·IA à ton écoute**
 
 Pour toute question, n'hésite pas à contacter l'équipe de [CeCo·IA](https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle) (Cellule de Coordination pour l'Intelligence Artificielle de l'ULB) à [cecoia@ulb.be](mailto:cecoia@ulb.be). 
 
-
 Le guide est en cours de construction. Finalisation prévue pour le 15/02.
 
-<p>
+</p>
 
 ![beaver](beaver.png)
 
-<p>
+</p>
 
 Image credit: Dall-E 3.
 
