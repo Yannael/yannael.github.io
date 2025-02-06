@@ -83,9 +83,9 @@ Au delà du coût en énergie pour entraîner et faire fonctionner les modèles 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kaZ6zTwVncw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ##### Pistes pour limiter l'impact environnemental de l'IA
 
-- **Optimisation des requêtes** : Formuler des requêtes précises et concises pour réduire le temps de calcul et la consommation d'énergie. Cela permet d'éviter de multiplier les prompts, et par la même occasion, la génération de réponse par l'IA.
-- **Utiliser des modèles moins coûteux en énergi****e** : plus un modèle est entraîné sur des données nombreuses, plus la génération est coûteuse en énergie. Utiliser des IA avec des modèles moins avancés pour des tâches plus simples peut permettre de réduire l'impact environnemental.
-- **Utilisation responsable** : Limiter l'utilisation des outils d'IA générative aux besoins essentiels et éviter les usages superflus qui consomment des ressources inutilement. Garder des moments de réflexion déconnectée. Pour t'aider à déterminer si une tâche nécessite vraiment l'IA ou non, tu peux suivre cet organigramme de décision :
+- **Optimisation des requêtes** : Formuler des requêtes précises et concises pour réduire le temps de calcul et la consommation d'énergie. Cela permet d'éviter de multiplier les prompts, et par la même occasion, la génération de réponse par l'IA.
+- **Utiliser des modèles moins coûteux en énergie : plus un modèle est entraîné sur des données nombreuses, plus la génération est coûteuse en énergie. Utiliser des IA avec des modèles moins avancés pour des tâches plus simples peut permettre de réduire l'impact environnemental.
+- **Utilisation responsable** : Limiter l'utilisation des outils d'IA générative aux besoins essentiels et éviter les usages superflus qui consomment des ressources inutilement. Garder des moments de réflexion déconnectée. Pour t'aider à déterminer si une tâche nécessite vraiment l'IA ou non, tu peux suivre cet organigramme de décision :
 
 ![decision_tree_usage_ia](attachments/decision_tree_usage_ia.png)
 

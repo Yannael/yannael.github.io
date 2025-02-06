@@ -42,7 +42,7 @@ Le guide est en cours de construction. Finalisation prévue pour le 15/02.
 
 </p>
 
-Image credit: Dall-E 3, et un castor qui ne s'est pas encore bien relu.
+Image credit: L'IA Dall-E 3.
 
 
 
