@@ -18,7 +18,7 @@ Le guide a été conçu dans le cadre du plan de formation <a href="https://www.
 8. [Jeu - Test de Turing](part8)
 9. [Aller plus loin](part9)
 
-**👩‍🎓 Quelles sont les parties de ce guide les plus pertinentes pour vous? Faîtes le quiz pour le savoir !**
+**👩‍🎓 Quelles sont les parties de ce guide les plus pertinentes pour vous ? Faîtes le quiz pour le savoir !**
 
 <center>
     <div style="width: 100%;">
