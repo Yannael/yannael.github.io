@@ -17,7 +17,7 @@ Plutôt que des outils de recherche d'information, ce sont surtout de bons alli�
 
 ## Fiabilité des informations produites par l'IA
 
-L'IA peut commettre des erreurs et des hallucinations lorsqu'elle produit du contenu. Pour bien comprendre cela, nous t'invitons à lire la section sur le fonctionnement de l'IA :  "[Fonctionnement de l'IA générative](https://uv.ulb.ac.be/course/view.php?id=127533&section=2)".
+L'IA peut commettre des erreurs et des hallucinations lorsqu'elle produit du contenu. Pour bien comprendre cela, nous vous invitons à lire la section sur le fonctionnement de l'IA :  "[Fonctionnement de l'IA générative](https://uv.ulb.ac.be/course/view.php?id=127533&section=2)".
 
 Voici des exemples d'incohérences et d'erreurs provenant d'outils d'IA :
 
@@ -75,17 +75,17 @@ Les nouveaux centres de données de type [hyperscale](https://fr.wikipedia.org/w
 ![nuclear_plant](attachments/nuclear_plant.png)
 
 
-Et individuellement, comment peux-tu estimer le coût environnemental d'une conversation avec ton chatbot favori?
+Et individuellement, comment pouvons-nous estimer le coût environnemental d'une conversation avec notre chatbot favori?
 
-Le site [Compar:IA](https://www.comparia.beta.gouv.fr/) te donne quelques éléments d'information, et cela dépend du type de modèle utilisé, de la longueur de la question et de la réponse, et des sources d'énergie utilisées. [Teste-le et compare](https://www.comparia.beta.gouv.fr/) les réponses de différents chatbots et leurs impacts environnementaux.
+Le site [Compar:IA](https://www.comparia.beta.gouv.fr/) donne quelques éléments d'information : cela dépend du type de modèle utilisé, de la longueur de la question et de la réponse, et des sources d'énergie utilisées. [Teste-le et compare](https://www.comparia.beta.gouv.fr/) les réponses de différents chatbots et leurs impacts environnementaux.
 
 Un exemple ici de l'impact énergétique d'une petite conversation avec le modèle Google Gemini 2.0 Flash (un modèle de taille moyenne):
 
 <a href="https://www.comparia.beta.gouv.fr/" target="_blank"><img src="./attachments/comparia.png"/></a>
 
-Le site te donne aussi une idée de l'impact environnemental équivalent en terme de visionnage de vidéo en ligne (approximatif), qui est aussi une activité très consommatrice en énergie.
+Le site nous donne aussi une idée de l'impact environnemental équivalent en terme de visionnage de vidéo en ligne (approximatif), qui est aussi une activité très consommatrice en énergie.
 
-Au-delà de l'impact environnemental de l'IA, c'est plus largement nos usages et notre dépendance au numérique (dont l'IA n'est qu'une composante) qu'il est aussi intéressant de questionner: Avons-nous réellement besoin de ce nouveau téléphone ou gadget? Besoin de ChatGPT pour écrire un message? Besoin de parler à son frigo plutôt qu'ouvrir la porte pour voir ce qu'il y a dedans? Besoin d'aller sur Insta toutes les 10 minutes pour voir qui a liké ma story?
+Au-delà de l'impact environnemental de l'IA, c'est plus largement nos usages et notre dépendance au numérique (dont l'IA n'est qu'une composante) qu'il est aussi intéressant de questionner: Avons-nous réellement besoin de ce nouveau téléphone ou gadget ? Besoin de ChatGPT pour écrire un message ? Besoin de parler à son frigo plutôt qu'ouvrir la porte pour voir ce qu'il y a dedans ? 
 
 De nombreuses organisations comme l’ADEME considère ainsi qu’il faut raisonner en termes de [**sobriété numérique**](https://www.ademe.fr/presse/communique-national/numerique-environnement-entre-opportunites-et-necessaire-sobriete/), en questionnant, priorisant et in fine réduisant certains usages numériques. 
 
