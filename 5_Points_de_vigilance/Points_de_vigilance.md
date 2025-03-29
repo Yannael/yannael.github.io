@@ -53,39 +53,48 @@ En ce sens, le développement d'outils et de modèles d'IA générative open-sou
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Présentation des formes basiques" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/674b7de2593768b5f5a5074c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div>
 </div>
 
-### Impact environnemental
+## Impact environnemental
 
 Les outils d'IA générative sont particulièrement gourmands en ressources informatiques. C'est d'ailleurs pour cela que les meilleurs modèles ne sont disponibles qu'en ligne: Ils demandent trop de mémoire et de puissance de calcul pour pouvoir fonctionner sur un laptop ou un smartphone. 
 
-L'impact environnemental est multiple. Il y a un impact du point de vue de la consommation d'énergie pour faire les calculs permettant faire fonctionner ces outils. Ici, il y a deux grandes étapes. La première est l'entraînement d'un modèle, très coûteuse en calcul, mais qui n'est réalisée qu'une fois. La seconde est l'utilisation du modèle, c'est à dire à chaque fois qu'un utilisateur a une interaction avec le modèle. Celle-ci est beaucoup moins coûteuse en énergie, mais au final plus importante que la première si le modèle est utilisé par des millions d'utilisateurs.
+Sous le capot de l'IA se trouvent des processeurs spécialisés, le plus souvent des cartes appelées **GPU** (pour Graphical Processing Unit, en anglais). Il s'agit de processeurs de calcul particulièrement chers et grands consommateurs en énergie. 
 
-![next_word_prediction](attachments/GPT_impact_environnemental.png)
+Ci-dessous est illustré une carte GPU typique (Nvidia H100, dont le prix avoisine les 25000 euros) de celles utilisées pour l'entraînement et l'utilisation des modèles de prédiction d'IA. Elles sont conçues par le fabricant Nvidia, qui est le leader mondial du marché et qui est devenu en quelques années l'une des entreprises les plus riches du monde du fait de l'explosion de l'usage de ces cartes dans les applications d'intelligence artificielle. 
 
-Ces tonnes d'équivalent CO2 de pollution environnementale (tCO2eq) peuvent être assez abstraites. 
+Les nouveaux centres de données de type [hyperscale](https://fr.wikipedia.org/wiki/Hyperscale) tels que celui de Google à Saint Ghislain en Wallonie accueillent entre autre les infrastructures nécessaires pour satisfaire la demande exponentielle des applications liées à l'IA.
 
-Pour les comparer à des activités plus tangibles, ce sont chaque mois des dizaines de milliers d'allers-retours en avion entre Paris-New York. **C'est l'utilisation plus que l'entraînement de ces modèles qui a le plus gros impact environnemental, du fait des millions d'utilisateurs**.
+![gpu_and_data_centers](attachments/gpu_and_data_centers.png)
 
-Et plus concrètement encore, quel est le coût environnemental d'une requête GPT par rapport à une recherche Google, ou regarder Netflix?
 
-La question est assez complexe, et dépend de beaucoup de paramètres comme le type de modèle utilisé, la longueur de la question et de la réponse, et les sources d'énergie utilisées.
+🏭  L’évolution rapide de l’IA rend difficile l’obtention de chiffres précis sur l'impact environnemental de l'IA générative. Les rapports environnementaux des GAFAM de 2023 révèlent cependant clairement l’ampleur de son impact sur l’environnement comme le souligne le site [Alt Impact de l'Ademe](https://altimpact.fr/bonnes-pratiques/eviter-le-recours-a-lia-generative/): Microsoft a ainsi vu ses émissions de carbone augmenter de 30 % depuis 2020, tandis que Google a enregistré une hausse de 48 % depuis 2019. 
 
-Mais voici quelques ordres de grandeurs utiles à avoir à l'esprit:
+💧 Plus proche de chez nous, concernant la consommation d'eau, le [rapport environnemental de Google 2024](https://sustainability.google/reports/google-2024-environmental-report/) précise que le centre de données de Saint Ghislain en Belgique près de Mons consomme annuellement environ un million de mètres cubes d'eau pour empêcher la surchauffe de ses serveurs, dont la majeure partie s'évapore. Ceci équivaut à la consommation annuelle d'environ 10 000 ménages de la région.
 
-- Une recherche sur un outil d'IA générative simple (type GPT-3) est considérée comme **6 à 10 fois plus coûteuse en énergie** qu'une recherche Internet type Google [1](https://huggingface.co/blog/sasha/ai-environment-primer "1").
-- Un échange avec un modèle simple type GPT-3 a un impact équivalent à 2g de CO2, soit environ 30 minutes d'éclairage avec une ampoule LED, ou à **environ 3 minutes de vidéo en ligne** [2](https://www.comparia.beta.gouv.fr/ "2").
+⚡ Et pour l'énergie, le fonctionnement d'un outil comme ChatGPT requièrent plusieurs cartes GPUs de type H100, dont la consommation d'énergie équivaut à chauffer une maison. A la place d'une maison, ce sont ici de puissants GPUs dans un centre de données qui chauffent, et nécessitent ensuite l'eau dont nous venons de parler pour être refroidis. La consommation de ce type de cartes GPUs en 2027 [pourrait atteindre 135TWh](https://altimpact.fr/bonnes-pratiques/eviter-le-recours-a-lia-generative/), soit la production d'environ 20 centrales nucléaires de type [Three Mile Island](https://en.wikipedia.org/wiki/Three_Mile_Island_Nuclear_Generating_Station), telle que celle que Microsoft envisage de réouvrir en 2028 pour ses besoins en IA. 
 
-![comparatif_CO2_ademe](attachments/comparatif_CO2_ademe.jpg)
+![nuclear_plant](attachments/nuclear_plant.png)
 
-Au delà du coût en énergie pour entraîner et faire fonctionner les modèles d'IA générative, n'oublions pas que cela nécessite de puissants ordinateurs, et donc des matières premières mais aussi à nouveau de l'énergie et également beaucoup d'eau pour construire et faire fonctionner toutes ces machines. Pour en savoir plus sur le sujet, nous t'invitons à regarder cette vidéo.
 
-Au delà du coût en énergie pour entraîner et faire fonctionner les modèles d'IA générative, n'oublions pas que cela nécessite de puissants ordinateurs, et donc des matières premières mais aussi à nouveau de l'énergie et également beaucoup d'eau pour construire et faire fonctionner toutes ces machines. Pour en savoir plus sur le sujet, nous t'invitons à regarder cette vidéo.
+Et individuellement, comment peux-tu estimer le coût environnemental d'une conversation avec ton chatbot favori?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kaZ6zTwVncw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-##### Pistes pour limiter l'impact environnemental de l'IA
+Le site [Compar:IA](https://www.comparia.beta.gouv.fr/) te donne quelques éléments d'information, et cela dépend du type de modèle utilisé, de la longueur de la question et de la réponse, et des sources d'énergie utilisées. [Teste-le et compare](https://www.comparia.beta.gouv.fr/) les réponses de différents chatbots et leurs impacts environnementaux.
 
-- **Optimisation des requêtes** : Formuler des requêtes précises et concises pour réduire le temps de calcul et la consommation d'énergie. Cela permet d'éviter de multiplier les prompts, et par la même occasion, la génération de réponse par l'IA.
-- **Utiliser des modèles moins coûteux en énergie : plus un modèle est entraîné sur des données nombreuses, plus la génération est coûteuse en énergie. Utiliser des IA avec des modèles moins avancés pour des tâches plus simples peut permettre de réduire l'impact environnemental.
-- **Utilisation responsable** : Limiter l'utilisation des outils d'IA générative aux besoins essentiels et éviter les usages superflus qui consomment des ressources inutilement. Garder des moments de réflexion déconnectée. Pour t'aider à déterminer si une tâche nécessite vraiment l'IA ou non, tu peux suivre cet organigramme de décision :
+Un exemple ici de l'impact énergétique d'une petite conversation avec le modèle Google Gemini 2.0 Flash (un modèle de taille moyenne):
 
-![decision_tree_usage_ia](attachments/decision_tree_usage_ia.png)
+<a href="https://www.comparia.beta.gouv.fr/" target="_blank"><img src="./attachments/comparia.png"/></a>
+
+Le site te donne aussi une idée de l'impact environnemental équivalent en terme de visionnage de vidéo en ligne (approximatif), qui est aussi une activité très consommatrice en énergie.
+
+Au-delà de l'impact environnemental de l'IA, c'est plus largement nos usages et notre dépendance au numérique (dont l'IA n'est qu'une composante) qu'il est aussi intéressant de questionner: Avons-nous réellement besoin de ce nouveau téléphone ou gadget? Besoin de ChatGPT pour écrire un message? Besoin de parler à son frigo plutôt qu'ouvrir la porte pour voir ce qu'il y a dedans? Besoin d'aller sur Insta toutes les 10 minutes pour voir qui a liké ma story?
+
+De nombreuses organisations comme l’ADEME considère ainsi qu’il faut raisonner en termes de [**sobriété numérique**](https://www.ademe.fr/presse/communique-national/numerique-environnement-entre-opportunites-et-necessaire-sobriete/), en questionnant, priorisant et in fine réduisant certains usages numériques. 
+
+<a href="https://altimpact.fr/" target="_blank"><img src="./attachments/alt_impact.png"/></a>
+
+Eviter d'avoir recours à l'IA générative fait ainsi partie des pratiques à impact très fort mises en avant par le programme [Alt Impact](https://altimpact.fr/), qui propose les alternatives suivantes à l’IA générative:
+
+1. **Préférer les moteurs de recherches à l’IA générative** lorsqu’ils peuvent offrir le même service. Préférer aussi les moteurs comme DuckDuckGo plutôt que Google ou Bing qui intègre maintenant l'IA générative dans leur réponse (et sont moins respectueux de vos données personnelles). Et pour des questions factuelles comme « Quelle est la capitale du Cambodge ? », utiliser tout simplement Wikipédia! Et si c’est vraiment inévitable d'interroger un IA, aller droit au but : exit les conversations superflues ! 
+2. **Privilégier une IA spécifique (traduction, orthographe)** plutôt qu’une IA générative, cela consommera beaucoup moins d’énergie. Exemple pour de la traduction, privilégier DeepL ou un site de dictionnaire comme “WordRéférence” pour chercher un mot en particulier plutôt que des IA conversationnelles.
+3. **Eviter autant que possible le recours à l’IA générative pour générer des images ou des vidéos**. Oui c’est amusant… mais son coût environnemental est salé. Les études montrent que générer une image ou encore une vidéo avec l’IA consomme bien plus d’énergie que de créer du texte, et qu’en plus, il y a souvent plus de déchets dans le processus… Dans la mesure du possible, utiliser des images déjà existantes provenant de banques d’images libres de droit.
+
 

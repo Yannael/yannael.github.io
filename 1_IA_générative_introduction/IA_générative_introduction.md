@@ -17,12 +17,13 @@ Voyons quelques exemples avec l'outil Microsoft Copilot, qui est l'outil d'IA g�
 
 **Note**: **Microsoft Copilot est l'outil à privilégier à l'ULB** car c'est le seul qui garantit la confidentialité et la propriété des données transmises ou produites grâce au contrat qui lie Microsoft à l’ULB. De nombreux autres outils d'IA génératives existent, en particulier open-source, voir la section "Boîte à outils de référence".
 
-Microsoft Copilot est accessible à l'adresse [https://copilot.cloud.microsoft/](https://copilot.cloud.microsoft/), où tu pourras t'y connecter avec ton adresse email ULB. Le logo de l’ULB doit alors apparaître en haut à gauche de l’écran et le logo d’un bouclier vert en haut à droite confirme que vos conversations sont protégées.
+Microsoft Copilot est accessible à l'adresse [https://copilot.cloud.microsoft/](https://copilot.cloud.microsoft/), où tu pourras t'y connecter avec ton adresse email ULB. Le pictogramme d’un bouclier vert doit être présent en haut à droite pour confirmer que tes conversations sont protégées.
+
 ### Génération de texte
 
 Voici ci-dessous un échange avec Copilot, demandant de générer des paroles d'une chanson sur le thème du libre examen dans un style hip-hop.
 
-![copilot_example_gpt4](attachments/copilot_example_gpt4.jpg)
+![copilot_example_gpt4](attachments/copilot_example_gpt5.png)
 Pas si mal !
 
 Que s'est-il passé dans cet échange ?
@@ -31,7 +32,7 @@ Que s'est-il passé dans cet échange ?
 - GPT-4 est développé par OpenAI, la société américaine qui commercialise aussi ChatGPT. 
 - **Il est important de distinguer le modèle de l'interface utilisateur**. Ici, l'interface utilisateur est celle de Microsoft, qui offre des fonctionnalités pratiques comme le fait de fournir des suggestions pour continuer les échanges, ou d'aller chercher du contenu sur Internet. Le coeur de la génération de texte est cependant le modèle GPT-4 (qui est aussi celui derrière l'outil ChatGPT d'OpenAI) qui n'a pas accès à Internet, et ne fait que prédire les mots suivants comme un outil d'auto-complétion. 
 
-Pour plus d'explications sur ce que font réellement les modèles de langage comme GPT-4, rendez-vous sur la capsule "Comment ça marche?" !
+Pour plus d'explications sur ce que font réellement les modèles de langage comme GPT-4, rends-toi sur la capsule "Comment ça marche?" !
 
 ### Génération d'images
 
@@ -41,7 +42,7 @@ Le modèle renvoie à Copilot l'image (ou les images) générées.
 
 Ici, nous avons demandé de générer des illustrations, dans un style art-nouveau, de Pierre-Théodore Verhaegen en train de rapper sur la place Flagey.
 
-![copilot_example_dalle3](attachments/copilot_example_dalle3.jpg)
+![copilot_example_dalle3](attachments/copilot_example_dalle4.png)
 
 On note dans ces propositions la présence d'un style art-nouveau. En revanche, Flagey n'y est pas spécialement reconnaissable, à l'instar du [fondateur de l'ULB](https://fr.wikipedia.org/wiki/Pierre-Th%C3%A9odore_Verhaegen "https://fr.wikipedia.org/wiki/Pierre-Th%C3%A9odore_Verhaegen"). 
 

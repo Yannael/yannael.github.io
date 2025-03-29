@@ -1,17 +1,18 @@
 (part7)=
 # Boîte à outils de référence
 
-## Microsoft copilot
+## Microsoft Copilot Chat
 
 [Copilot](https://copilot.cloud.microsoft/) est le chatbot de Microsoft. C’est un robot qui dispose, entre autres, des modèles GPT4-Turbo et DALL-E 3 à l’instar de ChatGPT.
 
-![copilot_interface](attachments/copilot_interface.jpg)
+![copilot_interface](attachments/copilot_interface.png)
 
-Inclus automatiquement dans les licences Microsoft, son usage est couvert par le contrat qui lie Microsoft à l’ULB et **garantit la confidentialité et la propriété des données** transmises à ou produites par l’outil. **C’est le seul outil qui offre actuellement ce niveau de sécurité juridique à l’Université**. 
+Inclus automatiquement dans les licences Microsoft, son usage est couvert par le contrat qui lie Microsoft à l’ULB et **garantit la confidentialité et la propriété des données** transmises à ou produites par l’outil. **C’est le seul outil qui offre actuellement ce niveau de sécurité juridique à l’Université**.
 
 **Testez-le!**
 
-- Rendez-vous sur [https://copilot.cloud.microsoft/](https://copilot.cloud.microsoft/), et connectez-vous avec votre adresse email ULB. Le logo de l’ULB doit alors apparaître en haut à gauche de l’écran et le logo d’un bouclier vert en haut à droite confirme que vos conversations sont protégées.
+- Rendez-vous sur [https://copilot.cloud.microsoft/](https://copilot.cloud.microsoft/), et connectez-vous avec votre adresse email ULB. Une fois connecté, le logo d’un bouclier vert en haut à droite doit être présent. Il confirme que vos conversations sont protégées.
+
 ## HuggingChat
 
 **[HuggingChat](https://huggingface.co/chat/)** est une interface open-source permettant d'interagir avec différents types de modèles d'IA génératives. L'interface est développée par la société [🤗 HuggingFace](https://fr.wikipedia.org/wiki/Hugging_Face), qui est une start-up (licorne) franco-américaine du domaine de l'Intelligence artificielle créée en 2016 et qui développe des outils pour utiliser l'apprentissage automatique.

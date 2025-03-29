@@ -39,7 +39,7 @@ Mais comment le modèle de prédiction est-il capable de prédire le prochain mo
 
 Un peu comme nous en fait, dans le premier exercice. Son savoir a été acquis lors d'une phase que l'on appelle apprentissage, au cours de laquelle de nombreux exemples de textes lui ont été montrés.
 
-Les exemples donnés au modèle de prédiction lors de la phase d'apprentissage constituent ce que l'on appelle les **données d'apprentissage**. Pour l'entraînement d'une IA générative de texte, ces exemples proviennent principalement d'Internet, come des sites Web, Wikipedia, les forums ou certains réseaux sociaux, mais également des livres ou des journaux.
+Les exemples donnés au modèle de prédiction lors de la phase d'apprentissage constituent ce que l'on appelle les **données d'apprentissage**. Pour l'entraînement d'une IA générative de texte, ces exemples proviennent principalement d'Internet, comme des sites Web, Wikipedia, les forums ou certains réseaux sociaux, mais également des livres ou des journaux.
 
 ![apprentissage_llm](attachments/apprentissage_llm.png)
 
@@ -104,6 +104,7 @@ Ceci explique pourquoi :
 * **Modèle de langage** : Modèle probabiliste de la distribution de symboles distincts (lettres, phonèmes, mots) dans une [langue naturelle](https://fr.wikipedia.org/wiki/Langage_naturel "Langage naturel") ([Wikipedia](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_langage)).
 * **Données d'entraînement** : Données d'exemples utilisés pour ajuster les paramètres (par exemple, les poids des connexions entre les neurones dans [les réseaux de neurones artificiels](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels "Réseau de neurones artificiels") ) d'un modèle de prédiction ([Wikipedia](https://fr.wikipedia.org/wiki/Jeux_d%27entrainement,_de_validation_et_de_test)).
 * **Biais dans les larges modèles de langage** : Préjugés et stéréotypes que peuvent refléter les modèles de langage du fait de la partialité des données d'entraînements choisies par les équipes qui préparent et conçoivent les modèles de langage ([Wikipedia](https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage#Biais_et_limites)).
+
 ## Ressources
 
 - [Comment fonctionne ChatGPT? Un tour d’horizon en moins de 5mn](https://www.youtube.com/watch?v=K8gOvC8gvB4) - Vidéo réalisée par l’équipe Flowers du centre Inria de l'Université de Bordeaux ([https://flowers.inria.fr/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbURVN0dtZHFBbG5yRUg3NDU2RF90aVZBS25NQXxBQ3Jtc0ttaTAzVDFJX2RiZ19uME40dlNOamxaQzk2LXRmOHBidmZ3aGJ2cXlCOXZlRUtqVVpJNmt2bE9wUkhaZE1BcEtubWM5alNIcmR1ZmloU3NTRXB0NVp1YmFHTnp5Y0Y1VFdmWUpJN3BreG5XYjMySnZTWQ&q=https%3A%2F%2Fflowers.inria.fr%2F&v=K8gOvC8gvB4) ). 

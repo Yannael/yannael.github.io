@@ -1,8 +1,8 @@
-# ChatGPT, Copilot et autres assistants IA : Guide des usages à l’ULB
+# L'intelligence artificielle générative à l'ULB
 
 ## Pourquoi ce guide?
 
-Découvre avec ce guide les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, Copilot et autres assistants IA à l'Université libre de Bruxelles. 
+Découvrez avec ce guide les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, [Copilot Chat](https://copilot.cloud.microsoft/) et autres assistants IA à l'Université libre de Bruxelles.
 
 Le guide a été conçu dans le cadre du plan de formation <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle" target="_blank">ULB Academ·IA</a>.
 
@@ -18,9 +18,7 @@ Le guide a été conçu dans le cadre du plan de formation <a href="https://www.
 8. [Jeu - Test de Turing](part8)
 9. [Aller plus loin](part9)
 
-</p>
-
-**👩‍🎓 Tu penses déjà tout savoir sur le sujet? Teste tes connaissances avec ce quiz!**
+**👩‍🎓 Quelles sont les parties de ce guide les plus pertinentes pour vous? Faîtes le quiz pour le savoir !**
 
 <center>
     <div style="width: 100%;">
@@ -28,19 +26,14 @@ Le guide a été conçu dans le cadre du plan de formation <a href="https://www.
     </div>
 </center>
 
-</p>
 
-**✏️ L'équipe CeCo·IA à ton écoute**
+**✏️ L'équipe CeCo·IA à votre écoute**
 
-Pour toute question, n'hésite pas à contacter l'équipe de [CeCo·IA](https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle) (Cellule de Coordination pour l'Intelligence Artificielle de l'ULB) à [cecoia@ulb.be](mailto:cecoia@ulb.be). 
+Pour toute question, n'hésitez pas à contacter l'équipe de [CeCo·IA](https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle) (Cellule de Coordination pour l'Intelligence Artificielle de l'ULB) à [cecoia@ulb.be](mailto:cecoia@ulb.be). 
 
-Le guide est en cours de construction. Finalisation prévue pour le 15/02.
-
-</p>
+Le guide est en cours de construction. Finalisation prévue pour le 15/04.
 
 ![beaver](beaver.png)
-
-</p>
 
 Image credit: L'IA Dall-E 3.
 

@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "ChatGPT, Copilot et autres assistants IA : Guide des usages à l’ULB"
+title: "L'intelligence artificielle générative à l’ULB"
 author: <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle">Université libre de Bruxelles - Academ·IA</a> 
 copyright: ""
 logo: ulb_academia.png 
@@ -36,6 +36,11 @@ html:
     Copyright ULB, 2025 <!--Licence: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>-->
     </p>
 
+parse:
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default! See here: https://jupyterbook.org/en/stable/customize/config.html
+    - html_image
 
 #sphinx:
 #   config:    
