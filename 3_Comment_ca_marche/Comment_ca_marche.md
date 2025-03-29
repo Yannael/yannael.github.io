@@ -3,23 +3,23 @@
 
 ## Exercice d'échauffement 
 
-Pour bien comprendre le fonctionnement de l'IA générative, nous t'invitons à faire ce petit jeu dans un premier temps. Il suffit de compléter les phrases selon ce qui te semble être la réponse correcte.
+Pour bien comprendre le fonctionnement de l'IA générative, nous vous invitons à faire ce petit jeu dans un premier temps. Il suffit de compléter les phrases selon ce qui vous semble être la réponse correcte.
 
 <iframe src="https://ladigitale.dev/digiquiz/q/675c015dc823b" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
-Lors de cet exercice, tu as répondu sur base de ce que tu pensais être le plus probable. Note que :
+Lors de cet exercice, vous avez répondu sur base de ce que vous pensiez être le plus probable. Note que :
 
-- pour certaines questions, les réponses ont fait appel à des connaissances que tu as pu acquérir grâce à ta culture ou tes apprentissages, comme peut-être pour l'histoire du Petit Chaperon rouge, ou le nom de la capitale de la France;
-- pour d'autre questions, tu n'avais aucun moyen de savoir la réponse de façon certaine. Comment aurais-tu pu deviner que les enfants ont été amenés à l'accrobranche et non à l'école ? Le premier lieu qui nous vient en tête est généralement celui-là. Mais ce n'est pas forcément parce que c'est la réponse la plus probable que cette réponse est vraie;
+- pour certaines questions, les réponses ont fait appel à des connaissances que vous avez pu acquérir grâce à votre culture ou vos apprentissages, comme peut-être pour l'histoire du Petit Chaperon rouge, ou le nom de la capitale de la France;
+- pour d'autre questions, vous n'aviez aucun moyen de savoir la réponse de façon certaine. Comment auriez-vous pu deviner que les enfants ont été amenés à l'accrobranche et non à l'école ? Le premier lieu qui nous vient en tête est généralement celui-là. Mais ce n'est pas forcément parce que c'est la réponse la plus probable que cette réponse est vraie;
 - enfin, il était impossible de répondre correctement à la phrase sur Bali puisque [Bali n'est pas une capitale](https://fr.wikipedia.org/wiki/Bali).
 
 Lorsque plusieurs choix sont possibles pour une réponse et que l'on choisit celui qui nous semble le plus probable (sans garantie que ce choix soit correct ou juste), on dit que l'on répond **de manière probabiliste**.
 ## IA générative et auto-complétion
 
-L'IA générative fonctionne selon le même principe que l'exercice que tu viens de faire. 
+L'IA générative fonctionne selon le même principe que l'exercice que vous venez de faire. 
 
 Au coeur d'une IA générative se trouve un modèle de prédiction qui a été entrainé pour une tâche très simple : prédire le mot suivant étant donné un début de texte (le prompt).
 
-**Note**: En réalité, ce n'est pas toujours un mot complet qui est prédit, il peut s'agir parfois d'une partie de mot (lettres, ou syllabes), que l'on appelle **token** (ou jeton en français). Pour simplifier, on utilisera ici des exemples ou ce sont des mots entiers qui sont prédits.
+**Note**: En réalité, ce n'est pas toujours un mot complet qui est prédit, il peut s'agir parfois d'une partie de mot (lettres, ou syllabes), que l'on appelle **token** (ou jeton en français). Pour simplifier, on utilisera ici des exemples dans lesquels ce sont des mots entiers qui sont prédits.
 
 Comme différentes possibilités de mots sont en général possible, le modèle de prédiction attribue pour chaque mot une probabilité d'apparition.
 
@@ -28,11 +28,11 @@ Avec un début de phrase comme "J'ai amené les enfants à l'", le modèle de pr
 ![next_word_prediction](attachments/next_word_prediction.png)
 Le modèle tire au sort l'une des possibilités et renvoie le mot à l'utilisateur. 
 
-Tu as peut-être remarqué que les chatbots d'IA générative affichent les mots les uns à la suite des autres lorsqu'il répondent. La raison est tout simplement car les mots sont prédits les uns après les autres, comme si tu acceptais automatiquement les propositions faites par le système d'auto-complétion de ton téléphone. 
+Vous avez peut-être remarqué que les chatbots d'IA générative affichent les mots les uns à la suite des autres lorsqu'il répondent. La raison est tout simplement car les mots sont prédits les uns après les autres, comme si vous acceptiez automatiquement les propositions faites par le système d'auto-complétion de ton téléphone. 
 
 A la différence de l'auto-complétion du téléphone, un modèle de prédiction comme GPT-4 (qui se cache derrière un outil comme Microsoft Copilot ou ChatGPT) a été entraîné sur d'**énormes** quantités de données, et nécessite généralement du matériel informatique spécialisé dont le coût environnemental n'est pas négligeable.  
 
-Si tu veux en savoir un peu plus sur le fonctionnement, nous te conseillons [cette vidéo](https://www.youtube.com/watch?v=7ell8KEbhJo&t=848s) (à partir de 14:08 pour d'autres exemples de génération).
+Pour en savoir plus sur le fonctionnement, nous vous conseillons [cette vidéo](https://www.youtube.com/watch?v=7ell8KEbhJo&t=848s) (à partir de 14:08 pour d'autres exemples de génération).
 ## Données d'apprentissage et modèle de langage
 
 Mais comment le modèle de prédiction est-il capable de prédire le prochain mot ?
