@@ -2,9 +2,9 @@
 
 ## Pourquoi ce guide?
 
-Découvrez avec ce guide les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, [Copilot Chat](https://copilot.cloud.microsoft/) et autres assistants IA à l'Université libre de Bruxelles.
+Découvrez sur cette page les usages recommandés des outils d'intelligence artificielle générative de type ChatGPT, [Copilot Chat](https://copilot.cloud.microsoft/) et autres assistants IA à l'Université libre de Bruxelles.
 
-Le guide a été conçu dans le cadre du plan de formation <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle" target="_blank">ULB Academ·IA</a>.
+Ce support a été conçu dans le cadre du plan de formation <a href="https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle" target="_blank">ULB Academ·IA</a>.
 
 **Contenu:**
 
@@ -30,6 +30,12 @@ Le guide a été conçu dans le cadre du plan de formation <a href="https://www.
 **✏️ L'équipe CeCo·IA à votre écoute**
 
 Pour toute question, n'hésitez pas à contacter l'équipe de [CeCo·IA](https://www.ulb.be/fr/intelligence-artificielle/academ%C2%B7ia-plan-de-formation-pour-lintelligence-artificielle) (Cellule de Coordination pour l'Intelligence Artificielle de l'ULB) à [cecoia@ulb.be](mailto:cecoia@ulb.be). 
+
+📌 **Pages partenaires**
+
+- [Academ·IA - Groupe de travail](https://portail.ulb.be/fr/informatique/academ-ia-groupe-de-travail)
+- [CAP | Assistants IA : quels enjeux pédagogiques ?](https://uv.ulb.ac.be/course/view.php?id=111621)
+- [FARI - AI for the common good - Brussels](https://www.fari.brussels/fr/calendrier)
 
 Le guide est en cours de construction. Finalisation prévue pour le 15/04.
 
