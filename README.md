@@ -37,11 +37,11 @@ Pour toute question, n'hésitez pas à contacter l'équipe de [CeCo·IA](https:/
 - [CAP | Assistants IA : quels enjeux pédagogiques ?](https://uv.ulb.ac.be/course/view.php?id=111621)
 - [FARI - AI for the common good - Brussels](https://www.fari.brussels/fr/calendrier)
 
-Le guide est en cours de construction. Finalisation prévue pour le 15/04.
+Le guide est en cours de construction.
 
 ![beaver](beaver.png)
 
-Image credit: L'IA Dall-E 3.
+Image credit: Dall-E 3.
 
 
 
